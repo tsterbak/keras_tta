@@ -5,4 +5,4 @@ Simple test time augmentation (TTA) for keras python library.
 ```python
 tta_model = TTA_ModelWrapper(model)
 predictions = tta_model.predict(X_test)
-´´´
+```
